@@ -272,7 +272,7 @@ const MainListItems = (props) => {
               <ListItemLink
             to="/kanban"
             primary="Kanban"
-            icon={<LoyaltyRoundedIcon />}
+            icon={<TableChartIcon />}
             />
             <ListItemLink
         to="/todolist"
